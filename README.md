@@ -13,13 +13,14 @@ shipment destination to a given driver while maximizing the total suitability of
 all drivers.
 
 The top-secret algorithm is:
-    ● If the length of the shipment's destination street name is even, the base suitability score
-      (SS) is the number of vowels in the driver’s name multiplied by 1.5.
-    ● If the length of the shipment's destination street name is odd, the base SS is the number
-      of consonants in the driver’s name multiplied by 1.
-    ● If the length of the shipment's destination street name shares any common factors
-      (besides 1) with the length of the driver’s name, the SS is increased by 50% above the
-      base SS.
+
+    &nbsp;● If the length of the shipment's destination street name is even, the base suitability score
+      &nbsp;(SS) is the number of vowels in the driver’s name multiplied by 1.5.
+    &nbsp;● If the length of the shipment's destination street name is odd, the base SS is the number
+      &nbsp;of consonants in the driver’s name multiplied by 1.
+    &nbsp;● If the length of the shipment's destination street name shares any common factors
+      &nbsp;(besides 1) with the length of the driver’s name, the SS is increased by 50% above the
+      &nbsp;base SS.
 
 Write an Android application using the attached json file as input that displays a list of drivers.
 When one is selected from the list display the correct shipment destination to that driver in a
