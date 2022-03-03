@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlatformScienceTask</string>
+    <string name="driver">"Driver: "</string>
+    <string name="address">"Address: "</string>
+</resources>
