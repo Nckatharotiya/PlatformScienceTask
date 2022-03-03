@@ -26,3 +26,7 @@ Write an Android application using the attached json file as input that displays
 When one is selected from the list display the correct shipment destination to that driver in a
 way that maximizes the total SS over the set of drivers. Each driver can only have one shipment
 and each shipment can only be offered to one driver.
+
+
+# Output
+![ScreenShot](https://github.com/Nckatharotiya/PlatformScienceTask/blob/master/PlatformScienceTask.png)
